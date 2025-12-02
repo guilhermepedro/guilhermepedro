@@ -1,4 +1,4 @@
-## Guilherme, desenvolvedor fullstack e apaixonado por tecnologia. 😁
+## Dev fullstack
  <div>
   <a href="https://github.com/guilhermepedro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermepedro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
