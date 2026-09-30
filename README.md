@@ -1,9 +1,9 @@
-## Hi, welcome to my profile!
+## Hi, welcome to my profile! 👋
 
- I'm a fullstack developer specializing in the Angular and Java/Spring ecosystems, with hands-on experience in NestJS. Always learning, always shipping.
+ I'm a fullstack developer building enterprise ERP systems with Angular, Java/Spring and NestJS. Always learning.
  Get in touch on [LinkedIn](https://www.linkedin.com/in/guilherme-pedro-46501b219).
 
-## 🛠 Tech Stack
+## Tech Stack
 
 #### Frameworks
 
